@@ -22,7 +22,7 @@ I specialize in transforming complex, unstructured business problems into struct
 
 ### **Featured Portfolio Projects**
 
-#### 📊 [1. Enterprise Revenue & KPI Diagnostic Dashboard](https://github.com/Arijit-Kanjilal/enterprise-kpi-diagnostic-dashboard) *(In Progress)*
+#### 📊 [1. Enterprise Revenue & KPI Diagnostic Dashboard](https://github.com/Arijit-Kanjilal/enterprise-kpi-diagnostic-dashboard) *(Completed)*
 * **Tools:** Power BI, Microsoft Excel
 * **Focus:** Interactive executive dashboard diagnosing regional margin erosion, revenue variance, and customer segment profitability using structured KPI frameworks.
 
